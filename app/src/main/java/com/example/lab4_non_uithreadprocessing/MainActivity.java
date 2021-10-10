@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private volatile boolean stopThread = false;
     private TextView downloadText;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
